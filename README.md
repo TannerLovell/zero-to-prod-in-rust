@@ -7,4 +7,5 @@
 - Http Framework: Axum
 - Async Runtime: Tokio
 - CI: Github Actions
-  ... TBD
+
+Remaining components are TBD
